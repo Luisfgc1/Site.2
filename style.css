@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+}
+#foto {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
